@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vezbaInterface", "vezbaInterface\vezbaInterface.csproj", "{7050DCB0-BB7A-46B1-B1CE-11F99904B4BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7050DCB0-BB7A-46B1-B1CE-11F99904B4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7050DCB0-BB7A-46B1-B1CE-11F99904B4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7050DCB0-BB7A-46B1-B1CE-11F99904B4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7050DCB0-BB7A-46B1-B1CE-11F99904B4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC006B5D-548F-42FF-9448-5FA31D068168}
+	EndGlobalSection
+EndGlobal

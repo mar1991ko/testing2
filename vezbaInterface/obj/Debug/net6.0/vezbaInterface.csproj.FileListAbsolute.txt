@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\bin\Debug\net6.0\vezbaInterface.exe
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\bin\Debug\net6.0\vezbaInterface.deps.json
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\bin\Debug\net6.0\vezbaInterface.runtimeconfig.json
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\bin\Debug\net6.0\vezbaInterface.dll
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\bin\Debug\net6.0\vezbaInterface.pdb
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.AssemblyInfo.cs
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.dll
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\refint\vezbaInterface.dll
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.pdb
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\vezbaInterface.genruntimeconfig.cache
+C:\Users\Admin\source\repos\vezbaInterface\vezbaInterface\obj\Debug\net6.0\ref\vezbaInterface.dll
